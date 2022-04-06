@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoyepezz)](https://github.com/ricardoyepezz/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoyepezz)](https://github.com/ricardoyepezz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoyepezz&layout=compact)](https://github.com/ricardoyepezz/github-readme-stats)
 <!--
 **ricardoyepezz/ricardoyepezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
