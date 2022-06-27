@@ -3,4 +3,4 @@
 - 🎓 I'm a Mechatronics Engineer  
 - 💻 My website [ricardoyepez.dev](https://www.ricardoyepez.dev) 
 - ⭐ 2022's Objective: Contribute to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love programming, learn new things and Formula 1 🏎️
+- ⚡ I love programming, learn new things and Formula 1 🏁
